@@ -2,6 +2,6 @@
 
 I'm Astro, your local random programmer and professional degenerate!
 
-Feel free to contact me on my Discord! **AstroOrbis#9797**
+Feel free to contact me on Discord! **astroorbis**
 
 ![Metrics](/github-metrics.svg)
